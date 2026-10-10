@@ -23,7 +23,7 @@ I use GitHub to document my learning journey, develop practical projects, and bu
 
 ### Operating Systems
 - Windows
-- Fedora Linux
+- Fedora Linux, Kali-Linux, Ubuntu 
 
 ### Networking
 - IPv4
