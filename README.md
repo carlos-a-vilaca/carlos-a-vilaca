@@ -94,6 +94,6 @@ Networking exercises developed using Cisco Packet Tracer:
 
 ---
 
-📍 Barcelos,Braga Portugal
+📍 Barcelos,Braga - Portugal
 
 📫 Contact: carlosafv2@hotmail.com
